@@ -1,1 +1,1 @@
-# Cifar-CNN-Cassification
+# Cifar-CNN-Classification
