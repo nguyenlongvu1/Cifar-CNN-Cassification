@@ -5,11 +5,17 @@ This project trains a Convolutional Neural Network (CNN) on the CIFAR-10 dataset
 ## 📁 Project Structure
 
 ├── train.py # Training script
+
 ├── evaluate.py # Evaluate model on test set
+
 ├── model.py # CNN model definition
+
 ├── visualize.py # Functions for plotting loss and confusion matrix
+
 ├── cnn_model.pth # Saved trained model
+
 ├── README.md # This file
+
 └── data/ # CIFAR-10 dataset will be downloaded here
 
 ## 🧠 Model Architecture
@@ -22,6 +28,7 @@ Conv2D(128 → 128) + ReLU + BN + MaxPool
 AdaptiveAvgPool → Flatten
 Dropout → Linear(128→128) → ReLU
 Dropout → Linear(128→10)
+```text
 
 ## ✅ Example Result
 
