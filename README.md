@@ -25,5 +25,5 @@ Dropout → Linear(128 → 10)
 ```
 ## ✅ Example Results
 
-- **Test Accuracy**: ~82.55%
+- **Test Accuracy**: ~79.95%
 
