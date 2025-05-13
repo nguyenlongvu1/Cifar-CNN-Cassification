@@ -26,10 +26,12 @@ Dropout → Linear(128 → 10)
 
 ## 📊 Visualizations
 
-- Training and validation loss per epoch
+- Training and validation loss per epoch  
   ![Training Loss](./loss.png)
-- Confusion matrix on test set
-  ![Training Loss](./confusion_matrix.png)
+
+- Confusion matrix on test set  
+  ![Confusion Matrix](./confusion_matrix.png)
+
 ## ✅ Example Results
 
 - **Test Accuracy (Custom CNN)**: ~79.95%  
