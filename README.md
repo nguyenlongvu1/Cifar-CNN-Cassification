@@ -27,10 +27,10 @@ Dropout → Linear(128 → 10)
 ## 📊 Visualizations
 
 - Training and validation loss per epoch  
-  ![Training Loss](./loss.png)
+  ![Training Loss](./loss.jpg)
 
 - Confusion matrix on test set  
-  ![Confusion Matrix](./confusion_matrix.png)
+  ![Confusion Matrix](./confusion_matrix.jpg)
 
 ## ✅ Example Results
 
